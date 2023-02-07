@@ -2,7 +2,7 @@
 .#*
 #*#
 src/build
-src/ext
+src/ext/
 .DS_Store
 .ipynb_checkpoints/
 build/
